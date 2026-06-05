@@ -1,0 +1,6 @@
+{
+  "name": "Solaris Energy Solutions",
+  "description": "Premium, high-converting solar energy provider website featuring a solar savings calculator, lead generation forms, and comprehensive service details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
